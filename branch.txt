@@ -1,3 +1,7 @@
 git branch 
 My name is Aman Ranjan
+<<<<<<< Updated upstream
 My name is Simp
+=======
+My name is Sitya Ranjan
+>>>>>>> Stashed changes
